@@ -1,0 +1,16 @@
+body {
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: whitesmoke;
+    height: 90px;
+    text-align: center;
+    margin: 100px;
+    padding: 15px;
+    border: white;
+    border-style: double;
+    border-radius: 25;
+}
